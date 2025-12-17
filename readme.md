@@ -19,7 +19,7 @@
 本仓库是《Godot 4 实用视频教程中文版》中使用的代码仓库
 
 该教程地址：
-https://www.bilibili.com/video/BV1jiqsBxEdh
+https://www.bilibili.com/video/BV1cmqvBZEW4
 
 
 
