@@ -1,0 +1,14 @@
+[gd_scene load_steps=3 format=3 uid="uid://d0j1vacvdy41b"]
+
+[ext_resource type="Script" uid="uid://biktc22bylp2k" path="res://score_manager.gd" id="1_dlkr7"]
+[ext_resource type="Script" uid="uid://bg1clgyovcxes" path="res://score_label.gd" id="2_t00u6"]
+
+[node name="ScoreManager" type="Node2D"]
+script = ExtResource("1_dlkr7")
+
+[node name="ScoreLabel" type="Label" parent="."]
+offset_left = 130.0
+offset_top = 89.0
+offset_right = 170.0
+offset_bottom = 112.0
+script = ExtResource("2_t00u6")
