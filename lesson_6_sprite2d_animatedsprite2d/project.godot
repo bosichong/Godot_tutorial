@@ -10,7 +10,11 @@ config_version=5
 
 [application]
 
-config/name="Lesson _4_gdscript"
-run/main_scene="uid://c6cupavewmoek"
+config/name="lesson_6_Sprite2D_AnimatedSprite2D"
+run/main_scene="uid://cadelbaa6g3au"
 config/features=PackedStringArray("4.4", "Forward Plus")
 config/icon="res://icon.svg"
+
+[rendering]
+
+textures/canvas_textures/default_texture_filter=0

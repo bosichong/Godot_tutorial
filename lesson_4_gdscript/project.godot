@@ -1,0 +1,8 @@
+config_version=5
+
+[application]
+
+config/name="Lesson_4_gdscript"
+run/main_scene="uid://c6cupavewmoek"
+config/features=PackedStringArray("4.4", "Forward Plus")
+config/icon="res://icon.svg"

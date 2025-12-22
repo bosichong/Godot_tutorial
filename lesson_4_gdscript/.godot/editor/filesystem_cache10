@@ -1,5 +1,5 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1765891439
+::res://::1766361075
 icon.svg::CompressedTexture2D/CompressedTexture2D::8679731882183796541::1765758039::1765758055::1::::<><><>0<>0<>8768759150255600acce4cbfb1a66bcb<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
-main.gd::GDScript::2645330087384718275::1765851307::0::1::::<>Node2D<><>0<>0<><>::
-main.tscn::PackedScene::6954065435089750090::1765851307::0::1::::<><><>0<>0<><>::uid://bdxog2i3ifo0r::::res://main.gd
+main.gd::GDScript/GDScript::2645330087384718275::1765893939::0::1::::<>Node2D<><>0<>0<><>::
+main.tscn::PackedScene/PackedScene::6954065435089750090::1765893964::0::1::::<><><>0<>0<><>::uid://bdxog2i3ifo0r::::res://main.gd
